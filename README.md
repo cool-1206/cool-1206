@@ -98,6 +98,15 @@ Feel free to connect with me here
 			height="40"
 		/>
 	</a>
+	<!-- Vb.net -->
+	<a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank">
+		<img
+			src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg"
+			alt="vb.net"
+			width="40"
+			height="40"
+		/>
+	</a>
 	<!-- React -->
 	<a href="https://reactjs.org/" target="_blank">
 		<img
